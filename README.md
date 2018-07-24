@@ -1,2 +1,3 @@
 # cleaning_text
-Algorithm to identify text coincidence in a database
+Algorithm to identify coincidences in a string variable or database. 
+Would you improve something?
